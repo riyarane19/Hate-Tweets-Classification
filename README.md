@@ -1,4 +1,4 @@
-Rume this code on collab Oor jupyter
+Run this code on collab or jupyter
 <img width="920" alt="1" src="https://user-images.githubusercontent.com/68269960/217849196-dd033ad3-7026-4735-a67a-ada88756cb39.PNG">
 <img width="921" alt="2" src="https://user-images.githubusercontent.com/68269960/217849211-96942d9c-3078-415d-9124-db0e99470b1b.PNG">
 <img w<img width="920" alt="4" src="https://user-images.githubusercontent.com/68269960/217849235-4e6f0eb7-be56-4610-8a3f-b203942daf24.PNG">
